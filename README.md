@@ -6,3 +6,12 @@
 
 As a pivotal member of a dynamic team, I played a central role in conducting an in-depth data analysis project aimed at predicting customer churn within the banking and telecom industries. Our objective was to uncover actionable insights from large-scale datasets and develop
 predictive models to enable proactive retention strategies.
+
+## Upload Details
+* **Bank_Churn** - Excel File - Bank Customer details Raw Data File
+* **Customer Churn Description** - PDF File - Project description and details
+* **CustomerInfo** - Excel File - Raw Data File
+* **Customer_Churn_Analysis** - PBIX File - PowerBI Dynamic Dashboard
+* **Customer_Churn_Analysis_dashboard** - PDF File - PDF of dashboard for reference
+* **Developing Predictive Models to Identify At-Risk Customers and Reduce Churn Rate_PPT** - PDF File - A complete presentation report on analysis
+* **dimension tables** - Excel File - Raw Data File
